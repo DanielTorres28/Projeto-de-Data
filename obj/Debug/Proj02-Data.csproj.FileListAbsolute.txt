@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Programas Etec\PA\Proj02-Data\bin\Debug\Proj02-Data.exe.config
+C:\Users\user\Desktop\Programas Etec\PA\Proj02-Data\bin\Debug\Proj02-Data.exe
+C:\Users\user\Desktop\Programas Etec\PA\Proj02-Data\bin\Debug\Proj02-Data.pdb
+C:\Users\user\Desktop\Programas Etec\PA\Proj02-Data\obj\Debug\Proj02-Data.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Programas Etec\PA\Proj02-Data\obj\Debug\Proj02-Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programas Etec\PA\Proj02-Data\obj\Debug\Proj02-Data.exe
+C:\Users\user\Desktop\Programas Etec\PA\Proj02-Data\obj\Debug\Proj02-Data.pdb
+E:\Etec Daniel\1° Modulo\PA\Trabalhos Entregar\Proj02-Data\bin\Debug\Proj02-Data.exe.config
+E:\Etec Daniel\1° Modulo\PA\Trabalhos Entregar\Proj02-Data\bin\Debug\Proj02-Data.exe
+E:\Etec Daniel\1° Modulo\PA\Trabalhos Entregar\Proj02-Data\bin\Debug\Proj02-Data.pdb
+E:\Etec Daniel\1° Modulo\PA\Trabalhos Entregar\Proj02-Data\obj\Debug\Proj02-Data.csproj.AssemblyReference.cache
+E:\Etec Daniel\1° Modulo\PA\Trabalhos Entregar\Proj02-Data\obj\Debug\Proj02-Data.csproj.CoreCompileInputs.cache
+E:\Etec Daniel\1° Modulo\PA\Trabalhos Entregar\Proj02-Data\obj\Debug\Proj02-Data.exe
+E:\Etec Daniel\1° Modulo\PA\Trabalhos Entregar\Proj02-Data\obj\Debug\Proj02-Data.pdb
